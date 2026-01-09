@@ -1,0 +1,3 @@
+metric,total_shipments_analyzed,avg_transit_hours,median_transit_hours,std_dev_transit_hours,min_transit_hours,max_transit_hours,avg_facilities_per_shipment,median_facilities_per_shipment,mode_facilities_per_shipment,avg_hours_per_facility,median_hours_per_facility,pct_first_attempt_delivery,avg_out_for_delivery_attempts
+overall,99,94.006734006734,93.25,64.82974868634497,15.333333333333334,544.2833333333333,4.090909090909091,4.0,4,22.475342312008976,23.30555555555556,80.76923076923077,0.9696969696969697
+service_type:FEDEX_EXPRESS_SAVER,99,94.006734006734,93.25,64.82974868634497,15.333333333333334,544.2833333333333,4.090909090909091,4.0,4,22.475342312008976,23.30555555555556,80.76923076923077,0.9696969696969697
